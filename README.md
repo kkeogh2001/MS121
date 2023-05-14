@@ -1,2 +1,2 @@
-# MS121
-MS121: IT Mathematics
+# MS121: IT Mathematics
+"This course concentrates on developing the algebraic and logical skills of the student. The course develops skills in the techniques of logic, probability, differential and integral calculus. Enhancing the student's ability to solve mathematical problems occuring in IT lies at the heart of this module. Students will participate in the following learning activities: Lectures: Students will attend three one-hour lectures per week. These lectures are designed to introduce learners to the mathematical principles and problem solving techniques that underpin this module. Tutorials: Each student will attend one one-hour tutorial per week. Problem sheets based on lecture content are distributed to the students and they are strongly advised to attempt all tutorial questions in advance of the tutorial.Reading: Students are expected to fully utilise the textbooks recommended."
